@@ -1,0 +1,77 @@
+b1 1 1 2020 100 Do Truong  An
+b2 2 2 2020 101 Ho Hoang Van Anh
+b3 3 3 2020 102 Hoang Tuan Anh
+b4 4 4 2020 103 Luu Duc Anh
+b5 5 5 2020 104 Tran Tuan Anh
+b6 6 6 2020 105 Nguyen Ngoc Binh
+b7 7 7 2020 106 Vu Cong Danh
+b8 8 9 2020 107 Nguyen Trung Duc
+b9 9 10 2020 108 Nguyen Tan Dung
+a1 10 11 2020 109 Do Truong  An
+a2 11 12 2020 200 Ho Hoang Van Anh
+a3 12 5 2021 201 Hoang Tuan Anh
+a4 13 6 2021 202 Luu Duc Anh
+a5 20 7 2021 203 Tran Tuan Anh
+a6 21 8 2021 204 Nguyen Ngoc Binh
+a7 22 9 2021 205 Vu Cong Danh
+a8 23 10 2021 206 Nguyen Trung Duc
+a9 24 1 2021 207 Nguyen Tan Dung
+c1 25 2 2021 320 Do Truong  An
+c2 26 3 2021 170 Ho Hoang Van Anh
+c3 27 4 2021 172 Hoang Tuan Anh
+c4 28 5 2021 173 Luu Duc Anh
+c5 1 6 2020 174 Tran Tuan Anh
+c6 2 7 2020 175 Nguyen Ngoc Binh
+c7 3 5 2020 176 Vu Cong Danh
+c8 4 6 2020 177 Nguyen Trung Duc
+c9 5 7 2020 178 Nguyen Tan Dung
+c10 6 8 2020 179 Le Vo Duy Tuan
+c11 7 11 2020 180 Cao Van Tuan
+d1 8 12 2020 200 Nguyen Anh Tuan
+d2 9 3 2020 256 Tran Thi Thanh Tuyen
+d3 10 4 2020 257 Nguyen Thi Anh Tuyet
+d4 11 5 2020 258 Ngo Nhat Thai
+d5 12 6 2020 259 Vuong Quang Thai
+d6 15 7 2022 260 Le Van Thanh
+d7 16 8 2022 261 Thach Thi Thanh Thao
+d8 17 9 2022 262 Le Vo Duy Tuan
+d9 18 1 2022 263 Cao Van Tuan
+d10 19 2 2022 264 Nguyen Anh Tuan
+d11 20 3 2022 265 Tran Thi Thanh Tuyen
+d12 21 4 2022 156 Nguyen Thi Anh Tuyet
+e1 22 5 2022 320 Ngo Nhat Thai
+e2 23 6 2022 321 Vuong Quang Thai
+e3 24 7 2022 300 Le Van Thanh
+e4 25 9 2021 301 Le Vo Duy Tuan
+e5 26 11 2021 302 Cao Van Tuan
+e6 30 12 2021 303 Nguyen Anh Tuan
+g3 17 4 2020 304 Tran Thi Thanh Tuyen
+g4 18 5 2021 132 Nguyen Thi Anh Tuyet
+g5 19 6 2021 120 Ngo Nhat Thai
+g6 20 7 2021 350 Vuong Quang Thai
+g7 21 8 2021 351 Le Van Thanh
+g8 22 9 2021 352 Pham Trung Vinh
+g9 23 10 2020 353 Pham Hoan Vu
+g10 24 11 2020 354 Hua Hong Long Vy
+g11 25 12 2020 355 Tran Nguyen Kha Vy
+n1 25 12 2020 255 Nguyen Khanh An
+n2 26 11 2020 256 Nguyen Dinh Hoang Anh
+n3 27 4 2020 257 Tran Hoa An
+n4 28 5 2020 258 Tran Hong An
+n5 29 6 2020 259 Nguyen Tran Quoc Bao
+n6 30 7 2020 260 Nguyen Viet Bac
+n7 14 8 2020 261 Pham Xuan Canh
+n8 15 9 2020 262 Nguyen Chi Cong
+n9 16 10 2021 263 Giap Chi Cuong
+k1 17 5 2022 264 Nguyen Chi Cuong
+k2 18 1 2022 265 Nguyen Phuong Cuong
+k3 19 2 2022 280 Tran Quoc Cuong
+k4 20 3 2022 281 Le Vo Duy Tuan
+k5 21 4 2022 282 Cao Van Tuan
+k6 1 5 2022 283 Nguyen Anh Tuan
+k7 2 6 2021 284 Tran Thi Thanh Tuyen
+k8 3 5 2021 294 Nguyen Thi Anh Tuyet
+k9 4 6 2021 295 Ngo Nhat Thai
+k10 5 7 2021 296 Vuong Quang Thai
+k11 6 8 2021 297 Le Van Thanh
+c34 7 9 2021 298 Vo Tan Dat
